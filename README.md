@@ -38,7 +38,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/JONY192/Credit-Card-Financial-Analysis-and-Dashbord.git
+    git clone https://github.com/myash1238-png/Credit-Card-Financial-Analysis-and-Dashbord.git
     ```
 
 2. Open the `credit_card.pbix` file in Power BI Desktop.
